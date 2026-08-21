@@ -2,7 +2,7 @@ const groups = [
   {
     title: "OWNERS", color: "#ff5ad9",
     members: [
-      ["Nova", "Lead builder of the fictional network.", "N"],
+      ["pow", "Lead builder of the fictional network.", "N"],
       ["Cipher", "Systems designer and UI architect.", "C"]
     ]
   },
